@@ -20,18 +20,23 @@ Passionate about making machine learn and make world a happy place.
 - **House Price Prediction with Advanced Linear Regression with Scikit Learn** 
 <br>In this Project, we're going to predict the price of a house using information like its location, area, no. of rooms etc. we'll use the dataset from the House Prices - Advanced Regression Techniques competition on Kaggle.
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/House_Price_Prediction_with_advanced_Linear_Regression.ipynb)
- 
 
-## EDA/Visualizations Projects
+- **Twittter Sentiment Analyser** 
+<br>In this Machine Learning Project, we’ll build binary classification that puts tweets texts into one of two categories — negative or positive sentiment using Naives Bayes Assumption.
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Twitter_Sentiment_Analyzer%20(1).ipynb)
+
+
+
+ ## EDA/Visualizations Projects
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
-<br>In this Project, We have performed Exloratory Data Analysis on data collated from https://data.gov.in. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. Some crimes that are included are Rape, Kidnapping and Abduction, Dowry Deaths etc. 
+<br>In this Project, We have performed Exploratory Data Analysis on data collated from https://data.gov.in. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. Some crimes that are included are Rape, Kidnapping and Abduction, Dowry Deaths etc. 
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Exploratory_Data_Analysis_on_Crime_Agianst_Women_in_India.ipynb)
 
 
 ## Deep Learning Projects
 
 - **Cat Breeds Image Classification Using Pytorch** 
-<br>Designing and Implementing a Convolutional Neural Network that learns to Identify Cat Breed from the given image
+<br>Designing and Implementing a Convolutional Neural Network that learns to Identify Cat Breed from the given Image
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cat_breed_image_classificationmodel.ipynb)
  
 
