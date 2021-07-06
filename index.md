@@ -27,7 +27,7 @@ Passionate about making machine learn and make world a happy place.
 
 
 
- ## EDA/Visualizations Projects
+## EDA/Visualizations Projects
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
 <br>In this Project, We have performed Exploratory Data Analysis on data collated from https://data.gov.in. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. Some crimes that are included are Rape, Kidnapping and Abduction, Dowry Deaths etc. 
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Exploratory_Data_Analysis_on_Crime_Agianst_Women_in_India.ipynb)
