@@ -31,6 +31,11 @@ Passionate about making machine learn and make world a happy place.
 <br>In this Project, We have performed Exploratory Data Analysis on data collated from https://data.gov.in. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. Some crimes that are included are Rape, Kidnapping and Abduction, Dowry Deaths etc. 
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Exploratory_Data_Analysis_on_Crime_Agianst_Women_in_India.ipynb)
 
+- **Web Scraping Using Selenium and Beautifull Soup in Python** 
+<br>Used Selenium webdriver to navigate webages of [MahaRera Site](https://maharerait.mahaonline.gov.in/)
+<br>Extracted Information of Registered agents in Mumbai City and saved it in csv format. Contains Agent Names, Certificate No, Sr no, Link to Full Info.
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Maharera_Web_Scraing.ipynb)
+
 
 ## Deep Learning Projects
 
