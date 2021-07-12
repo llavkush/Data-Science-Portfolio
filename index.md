@@ -25,10 +25,6 @@ Passionate about making machine learn and make world a happy place.
 <br>In this Machine Learning Project, we’ll build binary classification that puts tweets texts into one of two categories — negative or positive sentiment using Naives Bayes Assumption.
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Twitter_Sentiment_Analyzer%20(1).ipynb)
 
-- **Cotton Disease Predictor** 
-<br>In this Machine Learning Project, we build a disease predictor using Inception V3 model and trained on 4 class of images..
-<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cotton_Disease_Prediction.ipynb)
-
 
 ## Visualizations/EDA Projects
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
@@ -46,5 +42,9 @@ Passionate about making machine learn and make world a happy place.
 - **Cat Breeds Image Classification Using Pytorch** 
 <br>Designing and Implementing a Convolutional Neural Network that learns to Identify Cat Breed from the given Image
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cat_breed_image_classificationmodel.ipynb)
- 
+
+- **Cotton Disease Predictor** 
+<br>In this Machine Learning Project, we build a disease predictor using Inception V3 model and trained on 4 class of images..
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cotton_Disease_Prediction.ipynb)
+
 
