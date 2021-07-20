@@ -25,6 +25,10 @@ Passionate about making machine learn and make world a happy place.
 <br>In this Machine Learning Project, we’ll build binary classification that puts tweets texts into one of two categories — negative or positive sentiment using Naives Bayes Assumption.
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Twitter_Sentiment_Analyzer%20(1).ipynb)
 
+- **Covid19 Stats Chatbot Tracker For Telegram** 
+<br>In this Project, we have build chatbot to track stats of covid19 cases in your district by providing pincode as an input using Rasa Framework and integrated it with Telegram Bots. 
+<br>[Source Code Github](https://github.com/llavkush/Data-Science/tree/Master/Rasa%20Chatbot)
+
 
 ## Visualizations/EDA Projects
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
