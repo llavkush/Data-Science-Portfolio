@@ -29,6 +29,11 @@ Passionate about making machine learn and make world a happy place.
 <br>In this Project, we have build chatbot to track stats of covid19 cases in your district by providing pincode as an input using Rasa Framework and integrated it with Telegram Bots. 
 <br>[Source Code Github](https://github.com/llavkush/Data-Science/tree/Master/Rasa%20Chatbot)
 
+- **Online Fraud Prediction Using XGBoost** 
+<br>Build a Online Fraud predictor using XGBoost Regressor using a Data Fromm Kaggle Competition to predict whether the financial transaction is fradulent or Not.
+<br>Performed a Exploratory Data Analysis and Performed Feature Eangineering achiving a Accuracy of 99% on Test Datasets 
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Online_Fraud_Prediction_Using_XGBoost_.ipynb)
+
 
 ## Visualizations/EDA Projects
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
