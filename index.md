@@ -45,9 +45,13 @@ Passionate about making machine learn and make world a happy place.
 <br>Extracted Information of Registered agents in Mumbai City and saved it in csv format. Contains Agent Names, Certificate No, Sr no, Link to Full Info.
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Maharera_Web_Scraing.ipynb)
 
+- **IMDB Movie Data Scraping Using OMBD API and Exlporatory Data Analysis** 
+<br>Given the Data of Bollywood Movie Names, Obtained IMDB information about each movie and stored it in a Pandas Dataframe using OMBD Api Service.
+<br>Calculated the Poularity Score for Each Movie, thus finding the most popular movie of all time, Alslo explored Top actors and Genre Distribution.
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/IMDB_Analysis%20(1).ipynb)
+
 
 ## Deep Learning Projects
-
 - **Cat Breeds Image Classification Using Pytorch** 
 <br>Designing and Implementing a Convolutional Neural Network that learns to Identify Cat Breed from the given Image
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cat_breed_image_classificationmodel.ipynb)
@@ -55,5 +59,10 @@ Passionate about making machine learn and make world a happy place.
 - **Cotton Disease Predictor** 
 <br>In this Machine Learning Project, we build a disease predictor using Inception V3 model and trained on 4 class of images..
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cotton_Disease_Prediction.ipynb)
+
+- **Salt Image Segmentation** 
+<br>Given the dataset is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment.
+<br>Used pre-trained model Resnet34 and fine tuned on salt images to predict salt surface on testing Dataset.
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Salt_Image_Segmentation.ipynb)
 
 
