@@ -17,9 +17,16 @@ Passionate about making machine learn and make world a happy place.
 
 
 ## Machine Learning Projects
+
+- **Diabatic Detection Webpp Using Logistic Regression and Streamlit** 
+<br>The main objective of this project is to predict if a person is having Diabate, with the help of Machine Learning. Classification algorithms such as Logistic regression, Random Forest, Decision Tree, Naïve Bayes, Support Vector Machine.
+<br>ML models have been trained on the Pima Indian Diabates dataset
+<br>Logistics Regression performed well with better accuracy (78%), precision and recall. After hyper parameter tuning, application has deployed on Heroku with the help of Streamlit.
+<br>[Jupyter Notebook](https://github.com/llavkush/Diabatic-Detection/blob/Master/Diabates_Prediction_.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Diabates Detection Webapp](https://diabates-detection.herokuapp.com/)  
+
 - **House Price Prediction with Advanced Linear Regression with Scikit Learn** 
 <br>In this Project, we're going to predict the price of a house using information like its location, area, no. of rooms etc. we'll use the dataset from the House Prices - Advanced Regression Techniques competition on Kaggle.
-<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/House_Price_Prediction_with_advanced_Linear_Regression.ipynb)
+<br>[Jupyter Notebook](htttps://github.com/llavkush/HelloWorld/blob/master/House_Price_Prediction_with_advanced_Linear_Regression.ipynb)
 
 - **Twittter Sentiment Analyser** 
 <br>In this Machine Learning Project, we’ll build binary classification that puts tweets texts into one of two categories — negative or positive sentiment using Naives Bayes Assumption.
