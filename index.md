@@ -41,8 +41,23 @@ Passionate about making machine learn and make world a happy place.
 <br>Performed a Exploratory Data Analysis and Performed Feature Eangineering achiving a Accuracy of 99% on Test Datasets 
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Online_Fraud_Prediction_Using_XGBoost_.ipynb)
 
+- **Bounding Box and Color Detection** 
+<br>Build a model to detect BBox based on edge detection and Find a dominant color in Region Of Interest, also the script can be tweaked to find all the colors or the some numbers of colors based on user interest.
+<br>Used KMeans Algorithm to find the available colors available in ROI Image .
+<br>Script output the Co-ordinate of BBox and Name of Dominant Color in CSV format
+<br>Performed a Exploratory Data Analysis and Performed Feature Eangineering achiving a Accuracy of 99% on Test Datasets 
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Color_Detection_Final.ipynb)
+
+- **Sentence Clustering** 
+<br>Build an Email clustering model to find optimal number of clusters dynaically based on elbow knee method.
+<br>Used KMeans Algorithm to find the clusters in the dataset.
+<br>Dataset used is from enron-email-dataset from Kaggle, cleaned and processed for better results.
+<br>Scripts output the sentence and its Cluster Number in CSV format
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Email_Clustering.ipynb)
+
 
 ## Visualizations/EDA Projects
+
 - **Exploratory Data Analysis on Crime Agianst Women in India** 
 <br>In this Project, We have performed Exploratory Data Analysis on data collated from https://data.gov.in. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. Some crimes that are included are Rape, Kidnapping and Abduction, Dowry Deaths etc. 
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Exploratory_Data_Analysis_on_Crime_Agianst_Women_in_India.ipynb)
@@ -61,7 +76,7 @@ Passionate about making machine learn and make world a happy place.
 ## Deep Learning Projects
 
 - **Car Number Plate Detection and Recognition** 
-<br>Build a OCR Engine from scratch using mnist dataset and AtoZ Dataset from Kaggle to recognize text from car number plate.
+<br>Build a OCR Engine using ResNet Architecture from scratch using mnist dataset and AtoZ Dataset from Kaggle to recognize text from car number plate.
 <br>Build a model to detect number plate from input image of vehicle and outputs it Car Registration number in text format with accuracy of 96%.
 <br>Deployed Webapp using Streamlit framework on Heroku
 <br>[Jupyter Notebook](https://github.com/llavkush/Number-Plate-Detection-and-Recognition/blob/Master/Car_Number_Plate_Detection_And_OCR__LavkushGupta.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Number PLate Detection Webapp](https://number-pate-recognition.herokuapp.com/)  
