@@ -26,7 +26,7 @@ Passionate about making machine learn and make world a happy place.
 
 - **House Price Prediction with Advanced Linear Regression with Scikit Learn** 
 <br>In this Project, we're going to predict the price of a house using information like its location, area, no. of rooms etc. we'll use the dataset from the House Prices - Advanced Regression Techniques competition on Kaggle.
-<br>[Jupyter Notebook](htttps://github.com/llavkush/HelloWorld/blob/master/House_Price_Prediction_with_advanced_Linear_Regression.ipynb)
+<br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/House_Price_Prediction_with_advanced_Linear_Regression.ipynb)
 
 - **Twittter Sentiment Analyser** 
 <br>In this Machine Learning Project, we’ll build binary classification that puts tweets texts into one of two categories — negative or positive sentiment using Naives Bayes Assumption.
@@ -59,6 +59,13 @@ Passionate about making machine learn and make world a happy place.
 
 
 ## Deep Learning Projects
+
+- **Car Number Plate Detection and Recognition** 
+<br>Build a OCR Engine from scratch using mnist dataset and AtoZ Dataset from Kaggle to recognize text from car number plate.
+<br>Build a model to detect number plate from input image of vehicle and outputs it Car Registration number in text format with accuracy of 96%.
+<br>Deployed Webapp using Streamlit framework on Heroku
+<br>[Jupyter Notebook](https://github.com/llavkush/Number-Plate-Detection-and-Recognition/blob/Master/Car_Number_Plate_Detection_And_OCR__LavkushGupta.ipynb)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Number PLate Detection Webapp](https://number-pate-recognition.herokuapp.com/)  
+
 - **Cat Breeds Image Classification Using Pytorch** 
 <br>Designing and Implementing a Convolutional Neural Network that learns to Identify Cat Breed from the given Image
 <br>[Jupyter Notebook](https://github.com/llavkush/HelloWorld/blob/master/Cat_breed_image_classificationmodel.ipynb)
